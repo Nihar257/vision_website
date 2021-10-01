@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace WebApplication33.Controllers
 {
-    public class DController : Controller
+    public class D6Controller : Controller
     {
         // GET: D
         public ActionResult Index()
